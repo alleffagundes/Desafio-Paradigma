@@ -1,0 +1,15 @@
+D:\projetos\Curso\Desafio\bin\Debug\net6.0\Desafio.exe
+D:\projetos\Curso\Desafio\bin\Debug\net6.0\Desafio.deps.json
+D:\projetos\Curso\Desafio\bin\Debug\net6.0\Desafio.runtimeconfig.json
+D:\projetos\Curso\Desafio\bin\Debug\net6.0\Desafio.dll
+D:\projetos\Curso\Desafio\bin\Debug\net6.0\Desafio.pdb
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.csproj.AssemblyReference.cache
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfoInputs.cache
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfo.cs
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.csproj.CoreCompileInputs.cache
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.dll
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\refint\Desafio.dll
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.pdb
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\Desafio.genruntimeconfig.cache
+D:\projetos\Curso\Desafio\obj\Debug\net6.0\ref\Desafio.dll
